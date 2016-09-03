@@ -1,0 +1,15 @@
+h1 { text-align: center;
+color:red;}
+
+.jumbotron{ 
+background-color: white;
+color: black;
+ }
+ .navbar{
+ 	color: white;
+ 	background-color: white;
+ }
+ body { background-color: black; }
+
+li,a { color:white; }
+.col-md-12{ background-color:white; }
